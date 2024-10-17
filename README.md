@@ -1,5 +1,6 @@
 # Virtual and Augmented Reality Systems
-*Read this in other languages: [Italy](README_IT.md).*
+*Read this in other languages: [Italy](README.IT.md).*
+
 Virtual reality project
 
 This project is an exam for the Virtual course. 
