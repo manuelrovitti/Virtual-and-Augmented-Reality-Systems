@@ -1,4 +1,7 @@
 # Virtual and Augmented Reality Systems
+
+*Read this in other languages: [English](README.md).*
+
 Progetto di Realtà Virtuale
 
 Questo progetto è un esame per il corso di Virtuale. 
