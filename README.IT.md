@@ -1,6 +1,6 @@
 # Virtual and Augmented Reality Systems
 
-*Read this in other languages: [English](README.md).*
+*Leggi in inglese: [English](README.md).*
 
 Progetto di Realtà Virtuale
 
