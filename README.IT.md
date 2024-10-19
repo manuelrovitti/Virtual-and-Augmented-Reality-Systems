@@ -16,6 +16,6 @@ Uno delle prime prove svolte è stata la creazione di una panchina con dei cespu
 ![Header](./photo/prova0.png)
 
 # Provare a sperimentare 
-con il passare delle lezioni abbiamo  sperimenato le diverse tipologie di modellazione e arrotondamento, con applicazione di diversi tipologie di luci. 
+con il passare delle lezioni abbiamo  sperimenato le diverse tipologie di modellazione e arrotondamento, con applicazione di diversi tipologie di luci. Imparando a posizione le diverse tipologie di luci a seconda del risultato che vogliamo. Inoltre abbiamo appreso la modiifica delle texture, cosi da poter creare un materiale specifico, ovvero il vetro. 
 
 ![Header](./photo/tavolo.png)
