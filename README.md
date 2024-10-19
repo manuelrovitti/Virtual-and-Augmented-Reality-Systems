@@ -19,8 +19,11 @@ as the lessons went by we experimented with different types of modeling and roun
 
 ![Header](./photo/tavolo.png)
 
-#Progetto finale 
+# Progetto finale 
 L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito IKEA e replicarla in Blender; succivamente esportarla in Unity e rendere possibile esplorazione.
 
 La stanza da replicare era una cucina: 
 ![Header](./photo/IMG_8346.png)
+
+Attraverso una serie di passagi, riportati sulla presentazione il risultato ottenuto è questo:
+![Header](./photo/cucina.png)
