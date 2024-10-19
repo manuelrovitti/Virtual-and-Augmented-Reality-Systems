@@ -25,5 +25,5 @@ L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito
 La stanza da replicare era una cucina: 
 ![Header](./photo/IMG_8346.png)
 
-Attraverso una serie di passagi, riportati sulla presentazione il risultato ottenuto è questo:
+Attraverso una serie di passagi, il risultato ottenuto è questo:
 ![Header](./photo/cucina.png)
