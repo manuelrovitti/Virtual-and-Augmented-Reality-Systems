@@ -1,7 +1,7 @@
 # Virtual and Augmented Reality Systems
 *Read this in other languages: [Italy](README.IT.md).*
 
-Virtual reality project
+# Virtual reality project
 
 This project is an exam for the Virtual course. 
 The course was attended without having any basis in three-dimensional modeling. 
