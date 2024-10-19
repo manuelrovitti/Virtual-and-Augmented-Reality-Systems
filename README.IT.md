@@ -14,3 +14,8 @@ Nelle prime lezioni sono state affrontate i comandi base per potersi muovere la 
 Uno delle prime prove svolte è stata la creazione di una panchina con dei cespugli al lato e un lampione, con all'interno della sfera del lampione una luce. In questo caso non vi sono stati utilizzi di funzioni per l'arrotondamento. 
 
 ![Header](./photo/prova0.png)
+
+# Provare a sperimentare 
+con il passare delle lezioni abbiamo  sperimenato le diverse tipologie di modellazione e arrotondamento, con applicazione di diversi tipologie di luci. 
+
+![Header](./photo/tavolo.png)
