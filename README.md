@@ -18,3 +18,9 @@ One of the first tests carried out was the creation of a bench with bushes at th
 as the lessons went by we experimented with different types of modeling and rounding, with the application of different types of lights. Learning how to position the different types of lights depending on the result we want. We also learned how to modify textures, so as to be able to create a specific material, namely glass. 
 
 ![Header](./photo/tavolo.png)
+
+#Progetto finale 
+L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito IKEA e replicarla in Blender; succivamente esportarla in Unity e rendere possibile esplorazione.
+
+La stanza da replicare era una cucina: 
+![Header](./photo/IMG_8346.png)
