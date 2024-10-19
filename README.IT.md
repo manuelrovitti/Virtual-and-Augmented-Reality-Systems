@@ -2,7 +2,7 @@
 
 *Leggi in inglese: [English](README.md).*
 
-Progetto di Realtà Virtuale
+# Progetto di Realtà Virtuale
 
 Questo progetto è un esame per il corso di Virtuale. 
 Il corso è stato frequentato senza avere basi di modellazione tridimensionale. 
@@ -26,5 +26,5 @@ L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito
 La stanza da replicare era una cucina: 
 ![Header](./photo/IMG_8346.png)
 
-Attraverso una serie di passagi, il risultato ottenuto è questo:
+Attraverso una serie di passagi, il risultato ottenuto è questo, in Unity:
 ![Header](./photo/cucina.png)
