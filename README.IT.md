@@ -19,3 +19,12 @@ Uno delle prime prove svolte è stata la creazione di una panchina con dei cespu
 con il passare delle lezioni abbiamo  sperimenato le diverse tipologie di modellazione e arrotondamento, con applicazione di diversi tipologie di luci. Imparando a posizione le diverse tipologie di luci a seconda del risultato che vogliamo. Inoltre abbiamo appreso la modiifica delle texture, cosi da poter creare un materiale specifico, ovvero il vetro. 
 
 ![Header](./photo/tavolo.png)
+
+# Progetto finale 
+L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito IKEA e replicarla in Blender; succivamente esportarla in Unity e rendere possibile esplorazione.
+
+La stanza da replicare era una cucina: 
+![Header](./photo/IMG_8346.png)
+
+Attraverso una serie di passagi, il risultato ottenuto è questo:
+![Header](./photo/cucina.png)
