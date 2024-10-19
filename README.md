@@ -25,6 +25,6 @@ The exam consisted of reproducing a room taken randomly from the IKEA website an
 The room to be replicated was a kitchen: 
 ![Header](./photo/IMG_8346.png)
 
-Through a series of steps, the result obtained is this:
+Through a series of steps, the result obtained is this, in Unity:
 ![Header](./photo/cucina.png)
 
