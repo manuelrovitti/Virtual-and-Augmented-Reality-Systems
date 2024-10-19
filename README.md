@@ -19,11 +19,12 @@ as the lessons went by we experimented with different types of modeling and roun
 
 ![Header](./photo/tavolo.png)
 
-# Progetto finale 
-L'esame consiteva nel riprodurre una stanza presa in maniera randominca dal sito IKEA e replicarla in Blender; succivamente esportarla in Unity e rendere possibile esplorazione.
+# Final project 
+The exam consisted of reproducing a room taken randomly from the IKEA website and replicating it in Blender; then export it to Unity and make exploration possible.
 
-La stanza da replicare era una cucina: 
+The room to be replicated was a kitchen: 
 ![Header](./photo/IMG_8346.png)
 
-Attraverso una serie di passagi, il risultato ottenuto è questo:
+Through a series of steps, the result obtained is this:
 ![Header](./photo/cucina.png)
+
