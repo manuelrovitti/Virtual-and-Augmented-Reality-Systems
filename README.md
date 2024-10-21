@@ -1,30 +1,30 @@
 # Virtual and Augmented Reality Systems
+
 *Read this in other languages: [Italy](README.IT.md).*
 
-# Virtual reality project
+# Virtual Reality Project
+This project is an exam for the Virtual course.
+The course was attended without prior knowledge of 3D modeling. Starting from creating simple objects, progressively more complex ones were modeled to then render them or use them in Unity for the creation of an environment.
 
-This project is an exam for the Virtual course. 
-The course was attended without having any basis in three-dimensional modeling. 
-Starting from the creation of simple objects, gradually becoming more complex and then being able to render them or use them on Unity to create an environment.
+# First Models
+In the first lessons, we covered the basic commands to navigate efficiently through the Blender graphical interface, mainly through the use of shortcuts.
 
-# First modeling
-In the first lessons we covered the basic commands to be able to move better in the blender graphic interface, through the use of *shortcuts*.
-
-One of the first tests carried out was the creation of a bench with bushes at the side and a street lamp, with a light inside the sphere of the street lamp. In this case there were no uses of rounding functions.
+One of the first exercises was the creation of a bench with bushes on the side and a streetlight, with a light inside the streetlight's sphere. In this case, no rounding functions were used.
 
 ![Header](./photo/prova0.png)
 
-# Try experimenting 
-as the lessons went by we experimented with different types of modeling and rounding, with the application of different types of lights. Learning how to position the different types of lights depending on the result we want. We also learned how to modify textures, so as to be able to create a specific material, namely glass. 
+# Experimenting
+As the lessons progressed, we experimented with various types of modeling and rounding, along with the application of different types of lights. We learned to position the different types of lights depending on the desired result. Additionally, we learned how to modify textures to create a specific material, in this case, glass.
 
 ![Header](./photo/tavolo.png)
 
-# Final project 
-The exam consisted of reproducing a room taken randomly from the IKEA website and replicating it in Blender; then export it to Unity and make exploration possible.
+# Final Project
+The exam consisted of reproducing a room chosen at random from the IKEA website and replicating it in Blender; then exporting it to Unity and making it explorable.
 
-The room to be replicated was a kitchen: 
+The room to replicate was a kitchen:
+
 ![Header](./photo/IMG_8346.png)
 
-Through a series of steps, the result obtained is this, in Unity:
-![Header](./photo/cucina.png)
+Through a series of steps, the result obtained in Unity was this:
 
+![Header](./photo/cucina.png)
